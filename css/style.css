@@ -640,10 +640,10 @@ button.owl-next {
     margin-top: 70px !important;
   }
   button.owl-prev {
-    left: -2% !important;
+    left: -3% !important;
   }
   button.owl-next {
-    right: -2% !important;
+    right: -3% !important;
   }
   .worldwide {
     margin-top: 70px;
@@ -673,7 +673,7 @@ button.owl-next {
     line-height: 60px;
   }
   .top-courses .card {
-    width: 410px;
+    width: 390px;
   }
 }
 @media (max-width: 480px) {
@@ -695,7 +695,7 @@ button.owl-next {
 }
 @media (max-width: 420px) {
   .top-courses .card {
-    width: 280px;
+    width: 250px;
   }
   .experts .classes {
     line-height: 50px;
