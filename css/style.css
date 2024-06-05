@@ -165,9 +165,6 @@
   font-weight: bold;
   font-size: 30px;
 }
-.upskills {
-  margin-bottom: 170px;
-}
 .faster {
   margin-top: 200px;
 }
@@ -272,6 +269,7 @@ button.owl-next {
 .experts .teachers {
   color: #64748b;
   font-size: 22px;
+  width: 50%;
 }
 .experts .developer {
   font-size: 22px;
@@ -539,6 +537,9 @@ button.owl-next {
     border-bottom: 1px solid #e0dede;
     margin-top: 150px;
   }
+  .upskills{
+    margin-top: 150px !important;
+  }
   .become {
     margin-top: 120px !important;
   }
@@ -587,8 +588,11 @@ button.owl-next {
   button.owl-next {
     right: -8% !important;
   }
-  .faster {
-    margin-top: 120px;
+  .top-courses .categories{
+    text-align: center;
+  }
+  .upskills{
+    margin-top: 70px !important;
   }
   .underlines {
     border-bottom: 1px solid #e0dede;
@@ -633,9 +637,6 @@ button.owl-next {
   .top-courses {
     margin-top: 40px;
   }
-  .faster {
-    margin-top: 120px;
-  }
   .client .title {
     margin-top: 70px !important;
   }
@@ -671,6 +672,9 @@ button.owl-next {
   }
   .bol {
     line-height: 60px;
+  }
+  .experts .teachers{
+    width: 100%;
   }
   .top-courses .card {
     width: 390px;
